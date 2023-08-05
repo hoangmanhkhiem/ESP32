@@ -1,0 +1,14 @@
+## Mô tả
+
+Tên: [ESP32-CAM] Phần 1: Webserver, hiển thị ảnh từ camera
+Cần Có: 
+- Module ESP32-CAM
+- Đã cài đặt môi trường lập trình ESP32-CAM trên Arduino IDE (Các bạn googling trên mạng là có mình dùng của Espressif Systems)
+
+## Thêm
+
+- Bạn có thể cấu hình các thông số cảm biến camera trong code: kích thước, độ tương phản, sáng tối, xoay ảnh,..
+- Bạn sẽ tìm hiểu thêm từ các example code hoặc tìm trên mạng để xem các cấu hình có thể code được tùy thuộc vào dự án của bạn nhé.
+- Khi chạy thực tế bạn đã thiết lập 1 camera-ip. Bạn có thể sử dụng 1 số trình giám sát hoặc stream (VLC, ..) để thu hình ảnh
+hoặc đơn giản là truy cập IP được cấp phát để xem hình ảnh trực tiếp
+- Vì ESP32-CAM có thể làm được cả IOT, vậy nên ứng dụng của nó khá hay ho. Giá thì lại rẻ. ^^.
