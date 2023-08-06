@@ -1,12 +1,12 @@
-## Mô tả
-
-Tên: [ESP32-CAM] Phần 1: Webserver, hiển thị ảnh từ camera
-Cần Có: 
+## ESP32_CAM
+Name: [ESP32-CAM] 
+- Webserver, Displaty Image form camera
+Prepair: 
 - Module ESP32-CAM
 - Đã cài đặt môi trường lập trình ESP32-CAM trên Arduino IDE (Espressif Systems)
 
 ## Note
 
-- Cấu hình các thông số cảm biến camera trong code: kích thước, độ tương phản, sáng tối, xoay ảnh,..
+- Option: kích thước, độ tương phản, sáng tối, xoay ảnh,..
 - Khi chạy thực tế bạn đã thiết lập 1 camera-ip. Bạn có thể sử dụng 1 số trình giám sát hoặc stream (VLC, ..) để thu hình ảnh
 hoặc đơn giản là truy cập IP được cấp phát để xem hình ảnh trực tiếp
